@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.7.27:8081/repository/citibank-releases/</url>
+	      <url>http://13.239.112.52:9966/nexus/repository/twitter-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.7.27:8081/repository/citibank-snapshot/</url>
+	      <url>http://13.239.112.52:9966/nexus/repository/twitter-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
